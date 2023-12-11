@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731032041824",
+    "project_id": "signuplogin-a7512",
+    "storage_bucket": "signuplogin-a7512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731032041824:android:0a3799334ab05e66018605",
+        "android_client_info": {
+          "package_name": "com.example.signuplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZoPx8zrIWmLY9LhwxPAH_ZiHHPgHvWB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
